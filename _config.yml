@@ -2,11 +2,10 @@
 title: Mariia Kravtsova
 description: > # this means to ignore newlines until "baseurl:"
   This page is where you can keep up with my work. I will keep improving it, because I am awesome.
-baseurl: "almanac" # the subpath of your site, e.g. /blog/
-url: "http://mariiakravtsova.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mariiakravtsova.github.io/" # the base hostname & protocol for your site
 twitter_username: mariiakravtsova
 github_username:  mariiakravtsova
-
 
 # Build settings
 markdown: kramdown
