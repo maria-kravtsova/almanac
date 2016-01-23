@@ -3,6 +3,7 @@ layout: post
 title:  "Ada Lovelace"
 date:   2016-1-22 21:44:12
 categories: books
+comments: yes
 ---
 
 During the winter break I read *Ada’s Algorithm: How Lord Byron’s Daughter Ada Lovelace Launched the Digital Age* by James Essinger.
@@ -18,6 +19,6 @@ However, Ada did splendid work, and arguably wrote the first computer program. S
 which one need to apply to problems. Ada had an abundant imagination which she used to solve problems. The Difference Machine was much
 more to her then what Babbage did, if only he accepted her offer they might have finished one of the machines.
 
-Women like Ada are the ones inventing things, running companies, and being leaders in today’s world. Two hundred years later and we still 
+Women like Ada are the ones inventing things, running companies, and being leaders in today’s world. Two hundred years later and we still
 have too many of the same problems. I hope that we can change the stereotypes and get past the gender differences within the next 200 years,
 but for now, let’s be a little more like Ada.
