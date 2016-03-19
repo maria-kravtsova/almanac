@@ -7,7 +7,7 @@ comments: yes
 ---
 
 My second batch of Soylent arrived today, and I am happy to see it. What is Soylent? A nutritional and
-convenient way to replace a meal. They have more stuff on their website [silent.com](https://www.soylent.com/)
+convenient way to replace a meal. They have more stuff on their website [soylent.com](https://www.soylent.com/)
 
 I am on Soylent 2.0. There is no worry about mixing it, no need to prep for anything, it tastes better
 refrigerated, but I’ve had it room temperature and it was good as well. It is very clear to me what is inside the bottle - 400 calories.

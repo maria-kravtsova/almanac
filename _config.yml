@@ -1,5 +1,6 @@
 # Site settings
 title: Mariia Kravtsova
+logo: logo.png
 description: > # this means to ignore newlines until "baseurl:"
   This page is where you can keep up with my work. I will keep improving it, because I am awesome.
 baseurl: "/almanac" # the subpath of your site, e.g. /blog/
@@ -7,10 +8,13 @@ url: "http://mariiakravtsova.github.io" # the base hostname & protocol for your 
 twitter_username: mariiakravtsova
 github_username:  mariiakravtsova
 
+permalink: pretty
+paginate: 5
+
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
-# Settings for comments helper
-# Set 'provider' to the comment provider you want to use.
-# Set 'provider' to false to turn commenting off globally.
-#
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
