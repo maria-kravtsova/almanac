@@ -45,7 +45,10 @@ Step 13. Run chrx: curl -O https://chrx.org/go && sh go -r nightly, reboot
 Step 14. Ctrl+L to boot GalliumOS, Ctrl+D to boot to ChromeOS
 
 Issues:
-* There is no sound, sort of anticipated that, but I have my bluetooth headphones that work after I did [this](http://askubuntu.com/questions/833322/pair-bose-quietcomfort-35-with-ubuntu-16-04-over-bluetooth)
+
+* Sound [fix](https://github.com/GalliumOS/galliumos-distro/issues/270#issuecomment-273003254)
+
+* Bluetooth headphones that work after I did [this](http://askubuntu.com/questions/833322/pair-bose-quietcomfort-35-with-ubuntu-16-04-over-bluetooth)
 
 * When I restart the touchpad sensitivity goes waaaay low, so I type this in my terminal xinput set-prop "Elan Touchpad" "Synaptics Finger" 5 10 50  
   You can change the values, but it works for me.
