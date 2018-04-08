@@ -25,6 +25,7 @@ very accomplished with the number of lines in my PRs. Oh, and I can spend hours 
 
 ![stats](http://mariakravtsova.us/almanac/assets/images/github-stats.png)
 
+
 Quikly has been around for about five - six years and the code, wow, so MUCH CODE. I am new to Rails, but that is not the point, I feel lost in the files.
 When I think I find the right file I put some logs, or a giant red box, refresh the page - nothing there... wrong file, then I start over again. In a way I am Sherlock Holmes,
 and system search is my Watson.
