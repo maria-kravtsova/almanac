@@ -23,6 +23,8 @@ is done with all that coffee and RedBull.
 Back to the point - so far I have mostly worked on new projects. I learned a lot, but mostly about technologies, and I would often feel
 very accomplished with the number of lines in my PRs. Oh, and I can spend hours on how dangerous it is to look at those stats on Github, but in the name of science...
 
+![stats](http://mariakravtsova.us/almanac/assets/images/github-stats.png)
+
 Quikly has been around for about five - six years and the code, wow, so MUCH CODE. I am new to Rails, but that is not the point, I feel lost in the files.
 When I think I find the right file I put some logs, or a giant red box, refresh the page - nothing there... wrong file, then I start over again. In a way I am Sherlock Holmes,
 and system search is my Watson.
