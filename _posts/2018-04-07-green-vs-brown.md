@@ -8,17 +8,17 @@ comments: yes
 
 Working on a spanking new project, creating new files, deciding on patterns and styles... that is greenfield.
 
-![Sound of music](https://media2.giphy.com/media/ceLygpJHjm3te/giphy.gif)
+![Sound of music](https://media0.giphy.com/media/ceLygpJHjm3te/giphy.gif)
 
 On the other hand, brownfield is working on fixing bugs, or adding new features to already bulky legacy code.
 
-![Coal miners](https://media2.giphy.com/media/kc1c9AHdTP1VS/giphy.gif)
+![Coal miners](https://media0.giphy.com/media/kc1c9AHdTP1VS/giphy.gif)
 
 I know my definitions might romanticize one over another, I think that is how the industry sells us - the promise of creating something completely new.
 Sometimes it forgets to mention the whole hard work and teamwork part. My mom still thinks I sit in alone in a dark room all day with my hoodie on and type away until my body
 is done with all that coffee and RedBull.
 
-![typing](https://media3.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
+![typing](https://media0.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 
 Back to the point - so far I have mostly worked on new projects. I learned a lot, but mostly about technologies, and I would often feel
 very accomplished with the number of lines in my PRs. Oh, and I can spend hours on how dangerous it is to look at those stats on Github, but in the name of science...
@@ -42,4 +42,4 @@ There is a tricky builder that I can just use for this? Thanks!
 
 Reading all those files, spending all that time looking for the right place to insert my one line of code, that is not a waste. That is me learning and becoming better prepared to start a fresh project when time comes.
 
-![teamwork](https://media3.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
+![teamwork](https://media0.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
