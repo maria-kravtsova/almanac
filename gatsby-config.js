@@ -1,12 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog MDX`,
-    author: `Matt Hagner`,
-    description: `An extension of the gatsby starter blog, with support for MDX`,
-    siteUrl: `https://gatsby-starter-blog-mdx-demo.netlify.com/`,
-    social: {
-      twitter: `mattinthecouch`,
-    },
+    title: 'Almanac',
+    author: `Maria Kravtsova`,
+    description: `An almanac of a full snack developer`,
+    siteUrl: `http://mariakravtsova.us/almanac/`,
+    social: { twitter: `maria_hex` },
   },
   pathPrefix: "/almanac",
   plugins: [
@@ -56,7 +54,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-72784156-1`,
       },
     },
     {
@@ -127,7 +125,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#d35c5c`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
