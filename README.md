@@ -1,3 +1,3 @@
-# almanac
+# Hi, thanks for stopping by
 
-My blog built on Jekyll, I am slowly working on making my own theme. Just writting about some coding and life experiences.
+This is where I share my own thoughts. Not very technical blog posts, more like life lessons while being a software engineer.
