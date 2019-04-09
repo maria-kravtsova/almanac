@@ -21,9 +21,13 @@ Prepare to tackle the problem:
 - Writing tests cases will help you understanding all the intricacies instead of just writing code for happy and unhappy paths
 - Refinement is better than upfront thinking, don't write best code immediately
 
+---
+
 ## [WesBos - ESLint + Prettier + VS Code — The Perfect Setup](https://www.youtube.com/watch?v=lHAeK8t94as)
 
 [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) has the Airbnb config, plus other ESLint plugins.
+
+---
 
 ## [CascadiaJS 2014 No More Unicorns CJ Silverio](https://www.youtube.com/watch?v=uLxpko00QKk)
 
@@ -37,6 +41,8 @@ We should strive to be determined and empathetic.
 
 The standard you walk past, is the standard that you accept.
 
+---
+
 ## [MPJ - What task would make today great?](https://www.youtube.com/watch?v=T2KbMeS9lLQ)
 
 Come up with a task that answer the question. 
@@ -48,6 +54,8 @@ Ask yourself "How would you practice this?" when setting a goal.
 You might question if that is really the right task, but it might be good to stick with it.
 
 Evening is best to decide for this task, because you've internalized where the day is going to take you.
+
+---
 
 ## [RxJS Top Ten - Code This, Not That](https://www.youtube.com/watch?v=ewcoEYS85Co)
 
@@ -65,11 +73,15 @@ RxJS is a powerful, functional approach for dealing with events and with integra
 10. Retry operator
 11. Memory leaks can be prevented by unsubscribing from the subscription, or use takeWhile  wrapper.
 
+---
+
 ## [Run VS Code in the browser with massive computing resources](https://www.youtube.com/watch?v=N5WojMutddQ)
 
 Use VS Code remotely via [https://coder.com](https://coder.com/)
 
 Setting up on Google Cloud Platform and use TensorFlow
+
+---
 
 ## [React.js in 2019 & Beyond](https://www.youtube.com/watch?v=XWfHTLm6ECQ)
 
